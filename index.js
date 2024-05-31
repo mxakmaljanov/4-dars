@@ -37,4 +37,33 @@
 // if(v+b){
 //    console.log(vaqt shu)
 // }
+//
+//-masala
+//
+//et n = + prompt("kg");
+//
+//et a = + prompt("%");
+//
+//et b = + prompt("%");
+//
+//et x = (100*n-n*a)/(100-b);
+//
+//onsole.log(x);
+//
+//-masala
+//
+//et n = + prompt("tomonlar soni");
+//
+//et = b=180*(n-2);
+//
+//onsole.log(b);
+
+
+
+
+
+
+
+
+
 
